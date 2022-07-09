@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+#fondo {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../img/contenido.jpeg");
+}
+
+.inicio{
+  background-color: purple;
+  text-align: center;
+  color: orange;
+  font-weight: bold;
+}
